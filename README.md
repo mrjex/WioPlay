@@ -10,7 +10,8 @@
 
 </div>
 
-## Purpose
+> ⚠️ **Disclaimer**: This is a **fork** of [WioPlay](https://github.com/Indomet/WioPlay)
+
 
 The purpose of Wio Play is motivating people to lose calories by effectively utilising the terminal's components and the user experience of the android app
 
@@ -164,7 +165,7 @@ The Wio Play is currently receiving contributions from the following members
  
 
  ## Demo Video link
-[Group 10 WioPlay Demo](https://youtu.be/E4AoKy7i2mA)
+[Group 10 WioPlay Demo](https://www.youtube.com/watch?v=39YLKTfMxs0)
 
 ## Support
 [User manual](https://github.com/Indomet/WioPlay/wiki/User-Manual)
